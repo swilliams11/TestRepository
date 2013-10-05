@@ -1,0 +1,23 @@
+#surefire
+#Mon Sep 23 16:39:14 CDT 2013
+testClassesDirectory=C\:\\Users\\logikalone1\\Documents\\Depaul-MS_CS\\2013_02_Spring\\ds\\csc403_HW1\\target\\test-classes
+forkMode=once
+classPathUrl.2=C\:\\Users\\logikalone1\\.m2\\repository\\junit\\junit\\4.8.1\\junit-4.8.1.jar
+useManifestOnlyJar=true
+classPathUrl.1=C\:\\Users\\logikalone1\\Documents\\Depaul-MS_CS\\2013_02_Spring\\ds\\csc403_HW1\\target\\classes
+classPathUrl.0=C\:\\Users\\logikalone1\\Documents\\Depaul-MS_CS\\2013_02_Spring\\ds\\csc403_HW1\\target\\test-classes
+reportsDirectory=C\:\\Users\\logikalone1\\Documents\\Depaul-MS_CS\\2013_02_Spring\\ds\\csc403_HW1\\target\\surefire-reports
+providerConfiguration=org.apache.maven.surefire.junit4.JUnit4Provider
+testSuiteDefinitionTestSourceDirectory=C\:\\Users\\logikalone1\\Documents\\Depaul-MS_CS\\2013_02_Spring\\ds\\csc403_HW1\\src\\test\\java
+surefireClassPathUrl.1=C\:\\Users\\logikalone1\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.10\\surefire-api-2.10.jar
+surefireClassPathUrl.0=C\:\\Users\\logikalone1\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-junit4\\2.10\\surefire-junit4-2.10.jar
+runOrder=filesystem
+useSystemClassLoader=true
+excludes0=**/*$*
+isTrimStackTrace=true
+enableAssertions=true
+includes2=**/*TestCase.java
+failIfNoTests=false
+includes1=**/*Test.java
+includes0=**/Test*.java
+childDelegation=false
